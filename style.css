@@ -113,7 +113,7 @@ img {
     background-size: cover;
     background-repeat: no-repeat;
     color: var(--cor-white);
-    min-height: 43.3rem;
+    min-height: 35rem;
     padding-top: 2rem;
 }
 
@@ -203,7 +203,7 @@ img {
 .creations {
     text-align: center;
     text-transform: uppercase;
-    padding-bottom: 6.4rem;
+    padding-bottom: 7rem;
 }
 
 .creations h2 {
@@ -477,20 +477,14 @@ img {
         text-align: left;
     }
 
-    .interactive img {
-        height: 33.33rem;
-    }
-
     .interactive-text {
-        position: relative;
-        z-index: 2;
-        margin-left: -10.73rem;
-        padding: 6.4rem 0 0 6.4rem;
-        -webkit-box-flex: 1;
-        -ms-flex: 1;
-        flex: 1;
-        align-self: flex-end;
-        background-color: var(--cor-white);
+    position: relative;
+    z-index: 2;
+    margin-left: -10.73rem;
+    padding: 6.4rem 0 0 6.4rem;
+    flex: 1;
+    align-self: flex-end;
+    background-color: var(--cor-white);
     }
 
     .interactive h2 {
