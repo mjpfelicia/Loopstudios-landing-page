@@ -203,7 +203,7 @@ img {
 .creations {
     text-align: center;
     text-transform: uppercase;
-    padding-bottom: 7rem;
+    padding-bottom: 9rem;
 }
 
 .creations h2 {
@@ -500,6 +500,10 @@ img {
         width: 11.3rem;
         left: 2.66rem;
         bottom: 2.13rem;
+    }
+    .creations figure {
+       
+        height: 32vw;
     }
 
 }
