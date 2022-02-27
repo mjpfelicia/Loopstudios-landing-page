@@ -203,7 +203,7 @@ img {
 .creations {
     text-align: center;
     text-transform: uppercase;
-    padding-bottom: 6.4rem;
+    padding-bottom: 5rem;
 }
 
 .creations h2 {
@@ -422,10 +422,6 @@ img {
     .creations figcaption {
         font-size: 2.13rem;
         width: auto;
-    }
-
-    .footer {
-        padding-top: 2.93rem;
     }
 
     .footer-content {
