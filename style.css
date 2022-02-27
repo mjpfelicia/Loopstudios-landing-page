@@ -203,7 +203,7 @@ img {
 .creations {
     text-align: center;
     text-transform: uppercase;
-    padding-bottom: 5rem;
+    padding-bottom: 6.4rem;
 }
 
 .creations h2 {
@@ -424,13 +424,17 @@ img {
         width: auto;
     }
 
+    .footer {
+        padding-top: 2.93rem;
+    }
+
     .footer-content {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(2, 1fr);
         row-gap: 1.6rem;
         grid-template-areas: "logo icons""nav copyright";
-        padding-bottom: 1.87rem;
+       
     }
 
     .footer-logo {
@@ -460,7 +464,7 @@ img {
         text-align: right;
         padding-bottom: 0;
         position: relative;
-        bottom: 5rem;
+        bottom: 3rem;
     }
 }
 
