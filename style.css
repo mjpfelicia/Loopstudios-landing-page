@@ -114,7 +114,7 @@ img {
     background-repeat: no-repeat;
     color: var(--cor-white);
     min-height: 43.3rem;
-    padding-top: 2.67rem;
+    padding-top: 2rem;
 }
 
 .header a {
@@ -177,7 +177,7 @@ img {
 }
 
 .interactive {
-    padding: 6.4rem 0;
+    padding: 5rem 0;
     text-align: center;
 }
 
