@@ -222,7 +222,7 @@ img {
     color: var(--cor-white);
     transition: 0.3s;
     overflow: hidden;
-    height: 32vw;
+    
 }
 
 .creations figure::before {
