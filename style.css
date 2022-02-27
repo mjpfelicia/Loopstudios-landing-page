@@ -5,7 +5,7 @@
     --cor-white: hsl(0, 0%, 100%);
     --cor-black: hsl(0, 0%, 0%);
     --cor-dark-gray: hsl(0, 0%, 55%);
-   --cor-dark: rgba(255, 255, 255, 0.75);
+    --cor-dark: rgba(255, 255, 255, 0.75);
     --cor--very-dark-gray: hsl(0, 0%, 41%);
 
 }
@@ -166,7 +166,7 @@ img {
 .conteudo-nav a {
     font-family: "Josefin Sans";
     font-size: 1.5rem;
-    
+
 }
 
 .nav .active {
@@ -183,7 +183,7 @@ img {
 
 .interactive img {
     margin: 0 auto;
-       flex: 1;
+    flex: 1;
 }
 
 .interactive-text {
@@ -233,7 +233,7 @@ img {
     left: 0;
     bottom: 0;
     height: 100%;
-    transition:0.2s;
+    transition: 0.2s;
 }
 
 .creations figure:hover {
@@ -315,7 +315,7 @@ img {
 }
 
 @media screen and (min-width: 768px) {
-    
+
     .creations__content {
         display: grid;
         grid-template-areas: "title btn""gallery gallery";
@@ -363,10 +363,6 @@ img {
         padding-left: 0.5rem;
         cursor: pointer;
     }
-   
-    .header {
-        padding: 4.26rem 0 8.73rem;
-    }
 
     #conteudo-deliver {
         max-width: 43.3rem;
@@ -378,7 +374,7 @@ img {
         font-size: 4.8rem;
         line-height: 97%;
     }
-    
+
     .nav-menu {
         display: none;
     }
@@ -434,7 +430,7 @@ img {
         grid-template-rows: repeat(2, 1fr);
         row-gap: 1.6rem;
         grid-template-areas: "logo icons""nav copyright";
-       
+
     }
 
     .footer-logo {
@@ -472,7 +468,7 @@ img {
 @media screen and (min-width: 1100px) {
 
     .interactive {
-        padding: 10.67rem 0 12.27rem;
+        padding: 10rem 0 10rem;
     }
 
     .interactive-content {
